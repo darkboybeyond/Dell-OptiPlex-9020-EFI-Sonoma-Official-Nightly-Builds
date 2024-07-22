@@ -95,27 +95,24 @@ Your dedication and hard work have made it possible to bring macOS to non-Apple 
 
 ## Images
 
-to be updated...
 
-![Wi-Fi working](https://i.imgur.com/5ck6xZA.png)
+![iMessage working](https://i.imgur.com/DnmIN5L.png)
 
-> Wi-Fi working
+> iMessage working
 
-![Springboard/Launchpad](https://i.imgur.com/cFDoRvm.png)
+![Springboard/Launchpad](https://i.imgur.com/wqrX3Js.png)
 
 > Springboard/Launchpad
 
-![Intel HD 4600 Driver working](https://i.imgur.com/KB7EoWq.png)
+![Intel HD 4600 Driver working](https://i.imgur.com/HxhtPe5.png)
 
 > Intel HD 4600 Driver working
 
-![About Mac](https://i.imgur.com/TdK1Enw.png)
+![About Mac](https://i.imgur.com/2F9916x.png)
 
 > About Mac
 
-![Stock Wi-Fi List](https://i.imgur.com/N9zbIuc.png)
 
-> Stock Wi-Fi List
 
 ## 💖 Donations:
 
