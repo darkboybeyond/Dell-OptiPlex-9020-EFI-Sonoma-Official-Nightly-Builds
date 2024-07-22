@@ -4,6 +4,8 @@
 
 I am thrilled to share my successful Hackintosh project on my Dell OptiPlex 9020! Running MacOS Sonoma without a hitch, this machine has been revitalized and is performing exceptionally well. Below are the specs and details of the setup:
 
+🚨 **Important:** Remember to add your own SN info in the config.plist file to ensure proper functionality of services like iMessage and FaceTime.
+
 ## 🖥️ System Specifications:
 
 - 💻 **CPU Type:** Intel Core i5-4590, 3.30 GHz (4 cores, 4 threads)
