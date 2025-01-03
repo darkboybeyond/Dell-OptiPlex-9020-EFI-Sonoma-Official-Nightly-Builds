@@ -46,7 +46,7 @@ I am excited to announce that I will be **providing nightly builds for the EFI f
 
 ### Here's a snapshot of the key components in my EFI folder:
 
-**Bootloader:** OpenCore (version X.X.X)
+**Bootloader:** OpenCore (version 1.0.3)
 
 **Essential Kexts:**
 - Lilu.kext
@@ -68,8 +68,8 @@ I am excited to announce that I will be **providing nightly builds for the EFI f
 - 🛜 Wi-Fi (with compatible Wi-Fi card)
 - 📶 Bluetooth (with compatible Bluetooth adapter)
 - 📤 Airdrop (with compatible Wi-Fi/Bluetooth adapter)
-- 🎥 HDMI
-- 🎵 AUDIO
+- 🎥 HDMI **(HDMI Audio also)**
+- 🎵 AUDIO 
 - 🌐 Ethernet
 - 🔌 USB2.0
 - 🔋 USB3.0
